@@ -31,7 +31,7 @@ A hands-on collection of real-world AI workflows, tools, and automations that he
 
 | # | Title | Tag |
 |---|-------|-----|
-| | *Coming soon — first entry dropping this week* | |
+| 01 | [🎨 用 Claude Code + Excalidraw 生成手绘架构图](01-使用Claude-Code生成Excalidraw手绘图.md) | Tool |
 
 <!--
 Example format:
